@@ -24,7 +24,7 @@ public class HomeWork3 {
         }
 
     }
-
+    
     public static void arr2() {
 
         int[] b = new int[100];
